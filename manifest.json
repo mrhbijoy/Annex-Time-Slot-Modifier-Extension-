@@ -5,7 +5,7 @@
     "description": "Modify time slots of annex routine",
     "content_scripts": [
       {
-        "matches": ["<all_urls>"],
+       "matches": ["https://annex.bubt.edu.bd/ONSIS_SEITO/?page=routine"],
         "js": ["content.js"]
       }
     ]
