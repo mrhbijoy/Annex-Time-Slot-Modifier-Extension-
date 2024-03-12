@@ -1,11 +1,11 @@
 {
     "manifest_version": 2,
-    "name": "Time Slot Modifier",
-    "version": "1.0",
+    "name": "Annex Time Slot Modifier",
+    "version": "1.5",
     "description": "Modify time slots of annex routine",
     "content_scripts": [
       {
-       "matches": ["https://annex.bubt.edu.bd/ONSIS_SEITO/?page=routine"],
+       "matches": ["https://annex.bubt.edu.bd/"],
         "js": ["content.js"]
       }
     ]
