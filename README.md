@@ -14,8 +14,13 @@ Follow these simple steps to install the extension:
 ### Step 2: Unpack the ZIP File
 - Once downloaded, extract the ZIP file to a preferred location on your computer.
 
-### Step 3: Load the Extension in Chrome
-- Open the Chrome browser and go to `chrome://extensions/`.
+### Step 3: Load the Extension in Your Browser
+
+- Open your Chrome-based browser (Google Chrome, Microsoft Edge, Opera).
+- Navigate to the extensions page:
+  - For Google Chrome, go to `chrome://extensions/`.
+  - For Microsoft Edge, go to `edge://extensions/`.
+  - For Opera, go to `opera://extensions/`.
 - Enable **Developer Mode** by toggling the switch in the top right corner.
 
 ### Step 4: Install the Extension
