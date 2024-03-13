@@ -1,13 +1,16 @@
 {
-    "manifest_version": 2,
-    "name": "Annex Time Slot Modifier",
-    "version": "1.0",
-    "description": "Modify time slots of annex routine",
-    "content_scripts": [
-      {
-        "matches": ["<all_urls>"],
-        "js": ["content.js"]
-      }
-    ]
-  }
-  
+  "manifest_version": 2,
+  "name": "Annex Time Slot Modifier",
+  "version": "2.0",
+  "description": "Modify time slots of annex routine",
+  "icons": {
+    "48": "icons/icon.png"
+  },
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
