@@ -27,7 +27,10 @@ Follow these simple steps to install the extension:
 - Click on the `Load unpacked` button.
 - Select the unpacked extension directory.
 - The extension should now appear in your list of installed extensions.
-
+### Step 5: Install from Mozilla Firefox Official Store
+- The extension is now available on the Mozilla Firefox Official Store.
+- Click the button below to install it:
+[Install from Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/bubt-ramadan-routine-fixer/)
 ## Usage
 
 After installation, navigate to your annex routine page and click on the extension icon to modify the time slots as needed.
