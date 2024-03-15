@@ -1,10 +1,14 @@
 # Annex-Time-Slot-Modifier Extension
 
-Modify time slots of annex routine with ease using the Annex-Time-Slot-Modifier Extension for Chrome.
+Modify time slots of annex routine with ease using the Annex-Time-Slot-Modifier Extension for Chrome and firefox.
 
 ## How to Install
 
 Follow these simple steps to install the extension:
+### Step 0: Install from Mozilla Firefox Official Store
+- The extension is now available on the Mozilla Firefox Official Store.
+- Click the button below to install it:
+[Install from Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/bubt-ramadan-routine-fixer/)
 
 ### Step 1: Download the Extension
 - Navigate to the **main page** of the repository.
@@ -27,10 +31,7 @@ Follow these simple steps to install the extension:
 - Click on the `Load unpacked` button.
 - Select the unpacked extension directory.
 - The extension should now appear in your list of installed extensions.
-### Step 5: Install from Mozilla Firefox Official Store
-- The extension is now available on the Mozilla Firefox Official Store.
-- Click the button below to install it:
-[Install from Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/bubt-ramadan-routine-fixer/)
+
 ## Usage
 
 After installation, navigate to your annex routine page and click on the extension icon to modify the time slots as needed.
