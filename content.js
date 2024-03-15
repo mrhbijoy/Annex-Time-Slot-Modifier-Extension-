@@ -1,7 +1,4 @@
-const tables = [
-  ...document.querySelectorAll("table.tableRtn"),
-  ...document.querySelectorAll("table[id=tableRtn]"),
-];
+const tables = [...document.querySelectorAll("table.tableRtn, table[id=tableRtn]")];
 console.log(tables);
 
 tables.forEach((table) => {
