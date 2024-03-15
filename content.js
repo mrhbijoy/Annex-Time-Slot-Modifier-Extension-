@@ -1,5 +1,4 @@
 const tables = [...document.querySelectorAll("table.tableRtn, table[id=tableRtn]")];
-console.log(tables);
 
 tables.forEach((table) => {
   const timeSlots = table.querySelectorAll("th");
