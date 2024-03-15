@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "BUBT Ramadan Routine Fixer",
-  "version": "1.0",
+  "version": "1.1.0",
   "description": "Modify time slots of annex routine",
   "icons": {
     "48": "icons/icon.png"
@@ -10,6 +10,7 @@
   "content_scripts": [
     {
       "matches": ["*://annex.bubt.edu.bd/*"],
+      "include_globs": ["*routine*"],
       "js": ["content.js"]
     }
   ]
